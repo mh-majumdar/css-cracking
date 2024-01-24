@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+section {
+    background-color: yellow;
+}
+
+.card {
+    width: 25rem;
+    background-color: blue;
+    padding: 0.8rem;
+    margin: 2rem;
+    color: #fff;
+
+
+}
+
+.card:hover {
+    box-shadow: .5rem 1rem 0.5rem rgb(194, 50, 50);
+}

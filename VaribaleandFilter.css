@@ -1,0 +1,26 @@
+:root {
+    --text-color: #fff;
+    --pad: 10px;
+}
+
+
+p {
+    background-color: green;
+    color: #fff;
+    color: var(--text-color)
+}
+
+footer {
+    background-color: yellow;
+    color: #fff;
+    padding: var(--pad);
+
+}
+
+img {
+    filter: saturate(0);
+}
+
+img:hover {
+    filter: saturate(1);
+}

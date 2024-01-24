@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+img {
+    opacity: 0.5;
+}
+
+img:hover {
+    opacity: 1;
+
+}
+
+dib {
+    width: 400px;
+    height: auto;
+    overflow: visible;
+    overflow: auto;
+}

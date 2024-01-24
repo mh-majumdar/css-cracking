@@ -1,0 +1,22 @@
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+    /* color: rgb(1, 244, 3) ;
+    color: rgba(red, green, blue, alpha)
+    color: #133267; */
+
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-indent: 10rem;
+    letter-spacing: 0cm;
+    text-shadow: 1rem 2rem green;
+    line-height: 0cqmax;
+
+
+
+
+}

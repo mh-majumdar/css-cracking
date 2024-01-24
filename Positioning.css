@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+.card {
+    width: 25%;
+    background-color: blue;
+    padding: 0.8rem;
+    margin: 2rem;
+    color: #fff;
+    float: left;
+
+
+}
+
+/* .row::after {
+    content: "";
+    clear: both;
+    display: table;
+} */
+
+.card:hover {
+    box-shadow: .5rem 1rem 0.5rem rgb(194, 50, 50);
+}
+
+.parent {
+    background-color: rgb(234, 250, 11);
+    width: 3rem;
+    padding: 10rem;
+}
